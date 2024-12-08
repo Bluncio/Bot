@@ -1,5 +1,5 @@
 #!/bin/bash
-
+apt install wget -y
 clear
 
 echo "🅰🅻🅼🅾🆂🆃 🅲🅻🅾🆄🅳"
@@ -33,7 +33,7 @@ clear
 
 echo "Cài đặt các file vừa tải"
 docker build -t ubuntu-22.04-with-tmate -f Dockerfile1 . && docker build -t debian-with-tmate -f Dockerfile2 .
-pip install wget git curl nano sudo -y
+pip install docker discord
 
 clear
 
