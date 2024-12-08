@@ -3,5 +3,5 @@
 
 Install Free VPS Bot:
 ```
-wget https://raw.githubusercontent.com/AlmostCloud/bot/refs/heads/main/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/AlmostCloud/Bot/refs/heads/main/install.sh && bash install.sh
 ```
