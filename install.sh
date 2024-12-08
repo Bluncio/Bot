@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 echo "🅰🅻🅼🅾🆂🆃 🅲🅻🅾🆄🅳"
 
 echo Tạo VPS Hosting miễn phí của riêng bạn!
