@@ -33,12 +33,13 @@ clear
 
 echo "Cài đặt các file vừa tải"
 docker build -t ubuntu-22.04-with-tmate -f Dockerfile1 . && docker build -t debian-with-tmate -f Dockerfile2 .
+pip install wget git curl nano sudo -y
 
 clear
 
 echo "Nhập token bot discord"
 read -r TOKEN
-echo "Updating main.py with the provided Discord token..."
+echo "Đang cập nhật main.py bằng token bot Discord được cung cấp..."
 sed -i "s/TOKEN = ''/TOKEN = '$TOKEN'/" main.py
 
 clear
