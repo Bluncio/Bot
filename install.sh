@@ -26,7 +26,7 @@ clear
 echo "Cài đặt các file cần thiết"
 wget https://raw.githubusercontent.com/AlmostCloud/bot-freevps/refs/heads/main/Dockerfile1
 wget https://raw.githubusercontent.com/AlmostCloud/bot-freevps/refs/heads/main/Dockerfile2
-wget https://raw.githubusercontent.com/AlmostCloud/bot-freevps/refs/heads/main/main.py
+wget https://download944.mediafire.com/xelp9ytk3flgjYxjc8nIAxsk9mw-ke1SOTNYCAkmD-RUosiMYQ25a0jceaFKW8T2JcKb5wAd6tmjOoqcNF7K2iLL_qd7aAbL1dVyn6lqJ2quXfyO4HKweTtL8J2qrd48ayWN6RAaJaoBChm97LVTBdtTIewDE7F_3WKUgu_sD9wupA/7f6pad8wl9ahek5/main.py
 echo "Cài đặt thành công"
 
 clear
